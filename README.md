@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript,HTML,CSS,git/GitHub, etc... at the Odin Project and freeCodeCamp.
 - 💞️ I’m looking to collaborate on any projects that help me improve my skills as a future web developper.
 - 📫 How to reach me 
-      Email: philips.joe329@hotmail.com
+      Email: luyvannda@gmail.com
       WhatsApp: +85577697586 
 
 <!---
